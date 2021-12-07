@@ -2,4 +2,5 @@
 - Murot
 - Mehua
 - Nugetteja
-- Lihapullia 
+- Lihapullia
+- Salaatti
