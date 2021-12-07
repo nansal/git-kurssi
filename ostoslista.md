@@ -4,3 +4,5 @@
 - Nugetteja
 - Lihapullia
 - Salaatti
+- Karkkia
+- Koiranruokaa
